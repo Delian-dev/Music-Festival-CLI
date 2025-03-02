@@ -1,0 +1,19 @@
+﻿  141_Dan_AndreiDelian_Proiect3.cpp
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(102,22): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(104,22): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(296,39): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(403,50): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(551,21): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(552,20): warning C4244: '*=': conversion from 'double' to 'long', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(557,24): warning C4267: '+=': conversion from 'size_t' to 'long', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(564,23): warning C4244: '*=': conversion from 'float' to 'int', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(565,17): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(665,40): warning C4101: 'e': unreferenced local variable
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(795,20): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(835,44): warning C4101: 'e': unreferenced local variable
+C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\141_Dan_AndreiDelian_Proiect3\141_Dan_AndreiDelian_Proiect3.cpp(1404,48): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 1497 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  141_Dan_AndreiDelian_Proiect3.vcxproj -> C:\Users\DelianDan\OneDrive - unibuc.ro\Desktop\teste_VisualStudio\Proiect3\x64\Release\141_Dan_AndreiDelian_Proiect3.exe
